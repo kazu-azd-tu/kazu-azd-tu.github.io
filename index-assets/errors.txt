@@ -1,0 +1,21 @@
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "Contact.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "Contact.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "About.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "Work.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "background-color.jpg": Duplicate file name: background-color.jpg
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 5.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 6.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。  3.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "Portfolio site title.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "UED KAZUYOSI.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "AZD KD2.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 2.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 4.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 8.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。 7.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "About のコピー.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "Work のコピー.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "作品名が入ります。3.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "ご意見・ご相談などありましたらお手数ですが、学校を経由してご連絡ください。連絡先は以下の通りです。.ping": Unsupported extension: ping
+[Mon Aug 03 2020 10:31:10 GMT+0900 (東京 (標準時))] Layer "background-color.jpg": Duplicate file name: background-color.jpg

@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 850px;
+	margin: 0 auto;
+	
+	
+}
+
+.conteiner{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	
+}
+.menu{
+	width: 420px;
+	
+}
+
+ul {
+	list-style: none;
+}
+li {
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 89px;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+h5 {
+	font-size: 20px;
+}
+
+h7 {
+	font-size: 32px;
+}
+
+h8 {
+	font-size: 17px;
+}
